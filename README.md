@@ -2,7 +2,21 @@
 
 These are the years-of-introduction of various frameworks and library collection projects.
 
-Need Kohana (all versions), Fuel (all versions), Slim (all versions), Cake versions 2 and 3, Horde (versions after 1), PAT (aka PHP Application Tools, all versions)
+Need:
+
+- Kohana (all versions)
+
+- Fuel (all versions)
+
+- Slim (all versions)
+
+- Cake (2 and 3)
+
+- Horde (versions after 1)
+
+- PAT (aka PHP Application Tools, all versions)
+
+- Composer (for demarcation of PEAR packaging history)
 
 ## pre-2000
 
@@ -12,10 +26,7 @@ Need Kohana (all versions), Fuel (all versions), Slim (all versions), Cake versi
 
 - Horde: <https://web.archive.org/web/20000303030737/http://web.horde.org/>
 
-- Pear, https://web.archive.org/web/20001017231542/http://pear.php.net/
-
-    - these combined lead to PSR-0, 1, 2, solar, zend, symfony2
-    - pre-composer
+- Pear: https://web.archive.org/web/20001017231542/http://pear.php.net/
 
 # 2005
 
