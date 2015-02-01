@@ -28,13 +28,13 @@ Need:
 
 - Pear: https://web.archive.org/web/20001017231542/http://pear.php.net/
 
-# 2005
+## 2005
 
 - Solar: (nee "Hive"): <http://paul-m-jones.com/archives/105>
 
 - Cake: <https://web.archive.org/web/20050416071448/http://sputnik.pl/cake/>
 
-# 2006
+## 2006
 
 - Code Igniter: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
 
@@ -42,7 +42,7 @@ Need:
 
 - Symfony: <https://web.archive.org/web/20060209024250/http://www.symfony-project.com/>
 
-# 2010
+## 2010
 
 - Lithium: <https://web.archive.org/web/20101125064404/http://lithify.me/>
 
