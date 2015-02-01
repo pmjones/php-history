@@ -36,7 +36,7 @@ Need:
 
 ## 2006
 
-- Code Igniter: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
+- CodeIgniter: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
 
 - Zend Framework: <https://web.archive.org/web/20060404214442/http://framework.zend.com/>
 
