@@ -16,6 +16,8 @@ Need:
 
 - PAT (aka PHP Application Tools, all versions)
 
+- zetaComponents / ezComponents (all versions)
+
 - Composer (for demarcation of PEAR packaging history)
 
 ## pre-2000
@@ -30,7 +32,7 @@ Need:
 
 ## 2005
 
-- Solar: (nee "Hive"): <http://paul-m-jones.com/archives/105>
+- Solar (nee "Hive"): <http://paul-m-jones.com/archives/105>
 
 - Cake: <https://web.archive.org/web/20050416071448/http://sputnik.pl/cake/>
 
