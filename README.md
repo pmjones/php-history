@@ -10,8 +10,6 @@ Need:
 
 - Slim (all versions)
 
-- Cake (2 and 3)
-
 - Horde (versions after 1)
 
 - PAT (aka PHP Application Tools, all versions)
@@ -58,6 +56,8 @@ Need:
 
 - Laravel 1 and 2: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
+- Cake 2: <http://bakery.cakephp.org/articles/lorenzo/2011/10/16/cakephp_2_0_released>
+
 ## 2012
 
 - Laravel 3: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
@@ -73,4 +73,6 @@ Need:
 - Laravel 5: TBD
 
 - Zend Framework 3: TBD
+
+- Cake 3: TBD
 
