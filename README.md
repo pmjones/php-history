@@ -28,7 +28,13 @@ Need:
 
 - Horde: <https://web.archive.org/web/20000303030737/http://web.horde.org/>
 
-- Pear: https://web.archive.org/web/20001017231542/http://pear.php.net/
+- Pear: <https://web.archive.org/web/20001017231542/http://pear.php.net/>
+
+## 2003
+
+- Mojavi: <http://web.archive.org/web/20040520071127/http://www.mojavi.org/>
+
+- Prado: <https://web.archive.org/web/20040726124404/http://www.xisc.com/> and later moved to  <http://www.pradosoft.com/>
 
 ## 2005
 
@@ -36,13 +42,15 @@ Need:
 
 - Cake: <https://web.archive.org/web/20050416071448/http://sputnik.pl/cake/>
 
+- Agavi: <http://web.archive.org/web/20050710000645/http://www.agavi.org/>
+
+- Symfony: <https://web.archive.org/web/20051023011952/http://www.symfony-project.com/>
+
 ## 2006
 
 - CodeIgniter: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
 
 - Zend Framework: <https://web.archive.org/web/20060404214442/http://framework.zend.com/>
-
-- Symfony: <https://web.archive.org/web/20060209024250/http://www.symfony-project.com/>
 
 ## 2010
 
