@@ -55,6 +55,11 @@ Need:
 
 - Zend Framework: <https://web.archive.org/web/20060404214442/http://framework.zend.com/>
 
+## 2008
+
+- Yii: <https://web.archive.org/web/20081007231834/http://www.yiiframework.com/>
+
+
 ## 2010
 
 - Lithium: <https://web.archive.org/web/20101125064404/http://lithify.me/>
@@ -67,7 +72,7 @@ Need:
 
 ## 2011
 
-- FuelPHP 1: https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/
+- FuelPHP: https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/
 
 - Laravel 1 and 2: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
