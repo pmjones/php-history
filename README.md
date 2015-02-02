@@ -16,11 +16,7 @@ Need:
 
 - Composer (for demarcation of PEAR packaging history)
 
-- Flourish (the first "unframework")
-
-- Orno (A non-framework component vendor)
-
-- The League of Extraordinary Packages (Another non-framework component vendor)
+- The League of Extraordinary Packages
 
 
 ## pre-2000
