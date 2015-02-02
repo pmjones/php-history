@@ -31,9 +31,11 @@ Need:
 
 ## 2003
 
-- Mojavi: <http://web.archive.org/web/20040520071127/http://www.mojavi.org/>
+- Mojavi : <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
 
-- Prado: <https://web.archive.org/web/20040726124404/http://www.xisc.com/> and later moved to  <http://www.pradosoft.com/>
+## 2004
+
+- Prado version 1: <https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7> Sep 13, 2004
 
 ## 2005
 
@@ -43,6 +45,8 @@ Need:
 
 - Agavi: <http://web.archive.org/web/20050710000645/http://www.agavi.org/>
 
+- Prado version 2: <https://web.archive.org/web/20060322070507/http://www.xisc.com/forum/viewtopic.php?t=1044> Mar 15, 2005
+
 - Symfony: <https://web.archive.org/web/20051023011952/http://www.symfony-project.com/>
 
 ## 2006
@@ -51,10 +55,11 @@ Need:
 
 - Zend Framework: <https://web.archive.org/web/20060404214442/http://framework.zend.com/>
 
+- Prado version 3: <https://web.archive.org/web/20060514124523/http://www.xisc.com/forum/viewforum.php?f=1&topicdays=0&start=0> Apr 16, 2006
+
 ## 2008
 
-- Yii: <https://web.archive.org/web/20081007231834/http://www.yiiframework.com/>
-
+- Yii version 1: <https://web.archive.org/web/20081007231834/http://www.yiiframework.com/> [December 3rd 2008](http://www.pradosoft.com/forum/index.php?topic=11022.0)
 
 ## 2010
 
@@ -83,6 +88,8 @@ Need:
 - Laravel 4: <http://wiki.laravel.io/Laravel_4>
 
 - Aura 2: <http://auraphp.com/blog/2013/09/30/lessons-learned>
+
+- Yii 2: <http://www.yiiframework.com/news/81/yii-2-0-0-is-released/>
 
 ## 2015
 
