@@ -74,15 +74,21 @@ Need:
 
 - Cake 2: <http://bakery.cakephp.org/articles/lorenzo/2011/10/16/cakephp_2_0_released>
 
+- Typo3 Flow 1: <http://en.wikipedia.org/wiki/TYPO3_Flow>
+
 ## 2012
 
 - Laravel 3: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
+
+- Nette 2: <https://github.com/nette/nette/releases/tag/v2.0.0>
 
 ## 2013
 
 - Laravel 4: <http://wiki.laravel.io/Laravel_4>
 
 - Aura 2: <http://auraphp.com/blog/2013/09/30/lessons-learned>
+
+- Joomla! Framework 1: <http://www.joomla.org/announcements/release-news/5521-joomla-framework-1-0-released.html>
 
 ## 2015
 
