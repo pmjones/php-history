@@ -6,8 +6,6 @@ Need:
 
 - Kohana (all versions)
 
-- Fuel (all versions)
-
 - Slim (all versions)
 
 - Cake (2 and 3)
@@ -19,6 +17,13 @@ Need:
 - zetaComponents / ezComponents (all versions)
 
 - Composer (for demarcation of PEAR packaging history)
+
+- Flourish (the first "unframework")
+
+- Orno (A non-framework component vendor)
+
+- The League of Extraordinary Packages (Another non-framework component vendor)
+
 
 ## pre-2000
 
@@ -55,6 +60,8 @@ Need:
 - Aura (essentially Solar 2): <http://paul-m-jones.com/archives/1738>
 
 ## 2011
+
+- FuelPHP 1: https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/
 
 - Laravel 1 and 2: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
