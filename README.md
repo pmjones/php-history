@@ -44,6 +44,10 @@ Need:
 
 - Symfony: <https://web.archive.org/web/20060209024250/http://www.symfony-project.com/>
 
+## 2008
+
+- Yii Framework: <https://web.archive.org/web/20081007231834/http://www.yiiframework.com/>
+
 ## 2010
 
 - Lithium: <https://web.archive.org/web/20101125064404/http://lithify.me/>
