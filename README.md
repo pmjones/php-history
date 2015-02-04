@@ -51,7 +51,7 @@ Need:
 
 ## 2006
 
-- CodeIgniter: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
+- CodeIgniter 1: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
 
 - Zend Framework: <https://web.archive.org/web/20060404214442/http://framework.zend.com/>
 
@@ -73,7 +73,9 @@ Need:
 
 ## 2011
 
-- FuelPHP: https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/
+- CodeIgniter 2: <https://web.archive.org/web/20110805025800/http://codeigniter.com/news/codeigniter_2.0.0_released/>
+- 
+- FuelPHP: <https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/>
 
 - Laravel 1 and 2: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
@@ -93,9 +95,4 @@ Need:
 
 ## 2015
 
-- Laravel 5: TBD
-
-- Zend Framework 3: TBD
-
-- Cake 3: TBD
-
+TBD
