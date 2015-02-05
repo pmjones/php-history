@@ -77,7 +77,9 @@ Need:
 
 - FuelPHP: <https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/>
 
-- Laravel 1 and 2: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
+- Laravel 1: <https://web.archive.org/web/20121025120359/http://forums.laravel.com/viewtopic.php?id=29>
+
+- Laravel 2: <https://web.archive.org/web/20121025120041/http://forums.laravel.com/viewtopic.php?id=403>
 
 - CakePHP 2: <http://bakery.cakephp.org/articles/lorenzo/2011/10/16/cakephp_2_0_released>
 
@@ -85,11 +87,11 @@ Need:
 
 ## 2012
 
-- Laravel 3: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
+- Laravel 3 : <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
 
 ## 2013
 
-- Laravel 4: <http://wiki.laravel.io/Laravel_4>
+- Laravel 4: <http://forumsarchive.laravel.io/viewtopic.php?id=9146>
 
 - Aura 2: <http://auraphp.com/blog/2013/09/30/lessons-learned>
 
