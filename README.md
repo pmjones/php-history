@@ -116,6 +116,8 @@ Need:
 
 - Aura 2: <http://auraphp.com/blog/2013/09/30/lessons-learned>
 
+- League of Extraordinary Packages (nee PHP Super Best Friends Club): <https://twitter.com/philsturgeon/status/322409684151701504>
+
 - Yii 2: <http://www.yiiframework.com/news/81/yii-2-0-0-is-released/>
 
 - Joomla! Framework 1: <http://www.joomla.org/announcements/release-news/5521-joomla-framework-1-0-released.html>
