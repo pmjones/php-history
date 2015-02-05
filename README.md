@@ -4,8 +4,6 @@ These are the years-of-introduction of various frameworks and library collection
 
 Need:
 
-- Slim (all versions)
-
 - Horde 3
 
 - PAT (aka PHP Application Tools, all versions)
@@ -81,6 +79,9 @@ Need:
 - Symfony 2: <https://web.archive.org/web/20110317011324/http://symfony.com/>
 
 - Aura (essentially Solar 2): <http://paul-m-jones.com/archives/1738>
+
+- Slim: <https://github.com/codeguy/Slim/wiki/Road-Map#version-10-released-november-2-2010>
+
 
 ## 2011
 
