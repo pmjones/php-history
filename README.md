@@ -91,6 +91,8 @@ Need:
 
 ## 2013
 
+- CodeIgniter announces "end-of-life": <https://ellislab.com/blog/entry/ellislab-seeking-new-owner-for-codeigniter>
+- 
 - Laravel 4: <http://forumsarchive.laravel.io/viewtopic.php?id=9146>
 
 - Aura 2: <http://auraphp.com/blog/2013/09/30/lessons-learned>
