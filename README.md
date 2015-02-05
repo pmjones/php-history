@@ -72,7 +72,7 @@ Need:
 
 - Kohana 3: <http://en.wikipedia.org/wiki/Kohana_(framework)>
 
-- Lithium: <https://web.archive.org/web/20101125064404/http://lithify.me/>
+- Lithium: <https://twitter.com/1marc/status/5179954058>
 
 ## 2010
 
