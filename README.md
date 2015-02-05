@@ -41,7 +41,7 @@ Need:
 
 - Solar (nee "Hive"): <http://paul-m-jones.com/archives/105>
 
-- Cake: <https://web.archive.org/web/20050416071448/http://sputnik.pl/cake/>
+- CakePHP: <https://web.archive.org/web/20050416071448/http://sputnik.pl/cake/>
 
 - Agavi: <http://web.archive.org/web/20050710000645/http://www.agavi.org/>
 
@@ -79,7 +79,7 @@ Need:
 
 - Laravel 1 and 2: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
-- Cake 2: <http://bakery.cakephp.org/articles/lorenzo/2011/10/16/cakephp_2_0_released>
+- CakePHP 2: <http://bakery.cakephp.org/articles/lorenzo/2011/10/16/cakephp_2_0_released>
 
 ## 2012
 
