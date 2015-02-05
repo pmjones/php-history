@@ -74,10 +74,9 @@ Need:
 
 - Kohana 3: <http://en.wikipedia.org/wiki/Kohana_(framework)>
 
+- Lithium: <https://web.archive.org/web/20101125064404/http://lithify.me/>
 
 ## 2010
-
-- Lithium: <https://web.archive.org/web/20101125064404/http://lithify.me/>
 
 - Zend Framework 2: <https://github.com/zendframework/zf2/commit/fbde290971b7dda54d11f90e1f84c9818392f21d>
 
