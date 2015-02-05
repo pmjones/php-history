@@ -87,8 +87,6 @@ Need:
 
 - Laravel 3: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
-- Nette 2: <https://github.com/nette/nette/releases/tag/v2.0.0>
-
 ## 2013
 
 - Laravel 4: <http://wiki.laravel.io/Laravel_4>
