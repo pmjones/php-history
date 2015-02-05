@@ -62,7 +62,7 @@ Need:
 
 - Laravel 3: <http://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/>
 
-- Phalcon: <http://www.phalconphp.com/en/>
+- Phalcon: <http://blog.phalconphp.com/search/release>
 
 ## 2013
 
@@ -75,6 +75,4 @@ Need:
 - Laravel 5: TBD
 
 - Zend Framework 3: TBD
-
-- Windwalker: <http://windwalker.io/>
 
