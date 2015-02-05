@@ -6,8 +6,6 @@ Need:
 
 - Horde 3
 
-- zetaComponents / ezComponents (all versions)
-
 - The League of Extraordinary Packages
 
 
@@ -49,6 +47,9 @@ Need:
 
 - Symfony: <https://web.archive.org/web/20051023011952/http://www.symfony-project.com/>
 
+- ezComponents (later Zeta Components): <http://ezcomponents.org/download/dl_components>
+
+
 ## 2006
 
 - CodeIgniter 1: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
@@ -62,7 +63,6 @@ Need:
 - Kohana 1: <http://en.wikipedia.org/wiki/Kohana_(framework)>
 
 - Kohana 2: <http://en.wikipedia.org/wiki/Kohana_(framework)>
-
 
 ## 2008
 
