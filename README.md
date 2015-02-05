@@ -6,8 +6,6 @@ Need:
 
 - Horde 3
 
-- The League of Extraordinary Packages
-
 
 ## pre-2000
 
