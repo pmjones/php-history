@@ -101,6 +101,9 @@ Need:
 
 - Typo3 Flow 1: <http://typo3.org/about/the-history-of-typo3/>
 
+- Composer: <http://nelm.io/blog/2011/12/composer-part-1-what-why/>
+
+
 ## 2012
 
 - Laravel 3 : <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
