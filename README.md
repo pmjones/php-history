@@ -6,8 +6,6 @@ Need:
 
 - Horde 3
 
-- PAT (aka PHP Application Tools, all versions)
-
 - zetaComponents / ezComponents (all versions)
 
 - The League of Extraordinary Packages
@@ -22,6 +20,10 @@ Need:
 - Horde 1: <https://web.archive.org/web/20000303030737/http://web.horde.org/>
 
 - Pear 1: <https://web.archive.org/web/20001017231542/http://pear.php.net/>
+
+## 2001
+
+- PAT (PHP Application Tools): <http://www.php-tools.net/site.php?file=news/archive2001.xml>
 
 ## 2002
 
