@@ -12,8 +12,6 @@ Need:
 
 - zetaComponents / ezComponents (all versions)
 
-- Composer (for demarcation of PEAR packaging history)
-
 - The League of Extraordinary Packages
 
 
