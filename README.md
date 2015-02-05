@@ -4,8 +4,6 @@ These are the years-of-introduction of various frameworks and library collection
 
 Need:
 
-- Kohana (all versions)
-
 - Slim (all versions)
 
 - Horde 3
@@ -59,11 +57,23 @@ Need:
 
 - Zend Framework: <https://web.archive.org/web/20060404214442/http://framework.zend.com/>
 
-- Prado version 3: <https://web.archive.org/web/20060514124523/http://www.xisc.com/forum/viewforum.php?f=1&topicdays=0&start=0> Apr 16, 2006
+- Prado version 3: <https://web.archive.org/web/20060514124523/http://www.xisc.com/forum/viewforum.php?f=1&topicdays=0&start=0>
+
+## 2007
+
+- Kohana 1: <http://en.wikipedia.org/wiki/Kohana_(framework)>
+
+- Kohana 2: <http://en.wikipedia.org/wiki/Kohana_(framework)>
+
 
 ## 2008
 
 - Yii version 1: <https://web.archive.org/web/20081007231834/http://www.yiiframework.com/> [December 3rd 2008](http://www.pradosoft.com/forum/index.php?topic=11022.0)
+
+## 2009
+
+- Kohana 3: <http://en.wikipedia.org/wiki/Kohana_(framework)>
+
 
 ## 2010
 
