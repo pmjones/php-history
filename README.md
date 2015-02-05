@@ -8,7 +8,7 @@ Need:
 
 - Slim (all versions)
 
-- Horde (versions after 1)
+- Horde 3
 
 - PAT (aka PHP Application Tools, all versions)
 
@@ -25,9 +25,13 @@ Need:
 
 ## 2000
 
-- Horde: <https://web.archive.org/web/20000303030737/http://web.horde.org/>
+- Horde 1: <https://web.archive.org/web/20000303030737/http://web.horde.org/>
 
-- Pear: <https://web.archive.org/web/20001017231542/http://pear.php.net/>
+- Pear 1: <https://web.archive.org/web/20001017231542/http://pear.php.net/>
+
+## 2002
+
+- Horde 2: <http://marc.info/?l=horde-dev&m=101003795801512&w=4>
 
 ## 2003
 
@@ -76,6 +80,8 @@ Need:
 - CodeIgniter 2: <https://web.archive.org/web/20110805025800/http://codeigniter.com/news/codeigniter_2.0.0_released/>
 
 - FuelPHP: <https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/>
+
+- Horde 4: <http://www.techworld.com.au/article/382641/open_source_horde_groupware_reaches_version_4/>
 
 - Laravel 1: <https://web.archive.org/web/20121025120359/http://forums.laravel.com/viewtopic.php?id=29>
 
