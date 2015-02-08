@@ -80,7 +80,7 @@ Need:
 
 - Aura (essentially Solar 2): <http://paul-m-jones.com/archives/1738>
 
-- Slim: <https://github.com/codeguy/Slim/wiki/Road-Map#version-10-released-november-2-2010>
+- Slim 1.0: <https://github.com/codeguy/Slim/wiki/Road-Map#version-10-released-november-2-2010>
 
 
 ## 2011
@@ -106,6 +106,8 @@ Need:
 
 - Laravel 3 : <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
 
+- Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
+
 ## 2013
 
 - CodeIgniter announces "end-of-life": <https://ellislab.com/blog/entry/ellislab-seeking-new-owner-for-codeigniter>
@@ -119,6 +121,8 @@ Need:
 - Yii 2: <http://www.yiiframework.com/news/81/yii-2-0-0-is-released/>
 
 - Joomla! Framework 1: <http://www.joomla.org/announcements/release-news/5521-joomla-framework-1-0-released.html>
+
+- Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
 
 ## 2015
 
