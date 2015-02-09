@@ -124,6 +124,9 @@ Need:
 
 - Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
 
+## 2014
+- CodeIgniter, Has a New Home : <https://ellislab.com/blog/entry/your-favorite-php-framework-codeigniter-has-a-new-home>
+
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
