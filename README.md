@@ -107,6 +107,7 @@ Need:
 - Laravel 3 : <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
 
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
+- Phalcon 0.9 <http://blog.phalconphp.com/post/42369409581/phalcon-framework-0-9-0-released>
 
 ## 2013
 
@@ -123,7 +124,9 @@ Need:
 - Joomla! Framework 1: <http://www.joomla.org/announcements/release-news/5521-joomla-framework-1-0-released.html>
 
 - Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
-
+- Phalcon 1.1 <http://blog.phalconphp.com/post/49778100441/phalcon-1-1-released>
+## 2014
+- Phalcon 1.2.5 <http://blog.phalconphp.com/post/73222509376/phalcon-1-2-5-released>
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
