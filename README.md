@@ -124,6 +124,8 @@ Need:
 
 - Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
 
+- Phalcon 1.0.0: <http://blog.phalconphp.com/post/45916328008/phalcon-1-0-released>
+
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
