@@ -129,3 +129,5 @@ Need:
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
+
+- Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400/phalcon-2-released>
