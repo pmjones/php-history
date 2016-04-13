@@ -2,14 +2,9 @@
 
 These are the years-of-introduction of various frameworks and library collection projects.
 
-Need:
-
-- Horde 3
-
-
 ## pre-2000
 
-- Phplib <http://www.sanisoft.com/phplib/manual/>
+- Phplib: <http://www.sanisoft.com/phplib/manual/>
 
 ## 2000
 
@@ -24,15 +19,18 @@ Need:
 ## 2002
 
 - Horde 2: <http://marc.info/?l=horde-dev&m=101003795801512&w=4>
-- Phrame : <https://web.archive.org/web/20021119091123/http://phrame.itsd.ttu.edu/>
+
+- Phrame: <https://web.archive.org/web/20021119091123/http://phrame.itsd.ttu.edu/>
 
 ## 2003
 
-- Mojavi : <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
+- Mojavi: <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
 
 ## 2004
 
 - Prado version 1: <https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7> Sep 13, 2004
+
+- Hoard 3: <https://web.archive.org/web/20041229092356/http://www.horde.org/> Dec 23, 2004
 
 ## 2005
 
@@ -47,7 +45,6 @@ Need:
 - Symfony: <https://web.archive.org/web/20051023011952/http://www.symfony-project.com/>
 
 - ezComponents (later Zeta Components): <http://ezcomponents.org/download/dl_components>
-
 
 ## 2006
 
@@ -83,7 +80,6 @@ Need:
 
 - Slim 1.0: <https://github.com/codeguy/Slim/wiki/Road-Map#version-10-released-november-2-2010>
 
-
 ## 2011
 
 - CodeIgniter 2: <https://web.archive.org/web/20110805025800/http://codeigniter.com/news/codeigniter_2.0.0_released/>
@@ -102,10 +98,9 @@ Need:
 
 - Composer: <http://nelm.io/blog/2011/12/composer-part-1-what-why/>
 
-
 ## 2012
 
-- Laravel 3 : <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
+- Laravel 3: <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
 
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
 
