@@ -32,7 +32,7 @@ Need:
 
 ## 2004
 
-- WACT: <http://www.phpwact.org>
+- WACT: <http://web.archive.org/web/20060222022339/http://sourceforge.net/mailarchive/forum.php?forum=wact-announce>
 
 - Prado version 1: <https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7> Sep 13, 2004
 
