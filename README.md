@@ -30,7 +30,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Prado version 1: <https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7> Sep 13, 2004
 
-- Hoard 3: <https://web.archive.org/web/20041229092356/http://www.horde.org/> Dec 23, 2004
+- Horde 3: <https://web.archive.org/web/20041229092356/http://www.horde.org/> Dec 23, 2004
 
 ## 2005
 
