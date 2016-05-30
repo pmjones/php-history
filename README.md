@@ -131,8 +131,15 @@ Need:
 
 - Phalcon 1.0.0: <http://blog.phalconphp.com/post/45916328008/phalcon-1-0-released>
 
+## 2014
+
+- CodeIgniter changes owners: <https://ellislab.com/blog/entry/your-favorite-php-framework-codeigniter-has-a-new-home>
+
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
 
-- Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400/phalcon-2-released>
+- CodeIgniter 3: <http://forum.codeigniter.com/thread-1657.html>
+
+- Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400>
+
