@@ -61,9 +61,9 @@ Need:
 
 ## 2007
 
-- Kohana 1: <http://en.wikipedia.org/wiki/Kohana_(framework)>
+- Kohana 1: <http://en.wikipedia.org/wiki/Kohana_(framework)> July 2007
 
-- Kohana 2: <http://en.wikipedia.org/wiki/Kohana_(framework)>
+- Kohana 2: <http://en.wikipedia.org/wiki/Kohana_(framework)> November 2007
 
 ## 2008
 
@@ -71,7 +71,7 @@ Need:
 
 ## 2009
 
-- Kohana 3: <http://en.wikipedia.org/wiki/Kohana_(framework)>
+- Kohana 3: <https://github.com/kohana/kohana/releases/tag/3.0>
 
 - Lithium: <https://twitter.com/1marc/status/5179954058>
 
@@ -103,7 +103,6 @@ Need:
 - Typo3 Flow 1: <http://typo3.org/about/the-history-of-typo3/>
 
 - Composer: <http://nelm.io/blog/2011/12/composer-part-1-what-why/>
-
 
 ## 2012
 
@@ -143,3 +142,4 @@ Need:
 
 - Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400>
 
+- Aura 3: <http://auraphp.com/blog/2015/12/01/aura-3-stable-releases>
