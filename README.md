@@ -111,6 +111,8 @@ Need:
 
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
 
+- Phalcon: <http://blog.phalconphp.com/search/release>
+
 ## 2013
 
 - CodeIgniter announces "end-of-life": <https://ellislab.com/blog/entry/ellislab-seeking-new-owner-for-codeigniter>
