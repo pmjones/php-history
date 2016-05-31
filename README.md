@@ -134,6 +134,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
 
+- CakePHP 3: <http://bakery.cakephp.org/2015/03/22/CakePHP-3-0-0-is-Here.html>
+
 - CodeIgniter 3: <http://forum.codeigniter.com/thread-1657.html>
 
 - Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400>
