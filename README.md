@@ -142,6 +142,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400>
 
+- Slim 3.0.0: <http://www.slimframework.com/2015/12/07/slim-3.html>
+
 ## 2016
 
 - Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
