@@ -145,3 +145,5 @@ These are the years-of-introduction of various frameworks and library collection
 ## 2016
 
 - Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
+
+- Zend Framework 3: <https://framework.zend.com/blog/2016-06-28-zend-framework-3.html>
