@@ -30,6 +30,10 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Alternative PHP Cache: <http://pecl.php.net/package/APC> released the stable version was 2.0.0 on July 1st, 2003
 
+- PECL: <http://pecl.php.net/news/>
+
+- Alternative PHP Cache: <http://pecl.php.net/package/APC> released the stable version was 2.0.0 on July 1st, 2003
+
 ## 2004
 
 - WACT: <http://web.archive.org/web/20060222022339/http://sourceforge.net/mailarchive/forum.php?forum=wact-announce>
@@ -161,6 +165,8 @@ These are the years-of-introduction of various frameworks and library collection
 - Guzzle 6: <https://github.com/guzzle/guzzle/tree/6.0.0>
 
 - PHPixie 2: <https://phpixie.com/blog/new-phpixie-database-and-configuration-libraries.html>
+
+- Phalcon 1: <https://github.com/phalcon/cphalcon/blob/master/CHANGELOG.md>
 
 ## 2015
 
