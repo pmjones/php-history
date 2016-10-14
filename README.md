@@ -26,6 +26,10 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Mojavi: <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
 
+- PECL: <http://pecl.php.net/news/>
+
+- Alternative PHP Cache: <http://pecl.php.net/package/APC> released the stable version was 2.0.0 on July 1st, 2003
+
 ## 2004
 
 - WACT: <http://web.archive.org/web/20060222022339/http://sourceforge.net/mailarchive/forum.php?forum=wact-announce>
@@ -50,6 +54,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - QCodo: <http://web.archive.org/web/20051204033658/http://www.qcodo.com/downloads/>
 
+- Alternative PHP Cache: <http://pecl.php.net/package/APC> released the stable version 3.0.0 was on July 5th, 2005
+
 ## 2006
 
 - CodeIgniter 1: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
@@ -73,6 +79,8 @@ These are the years-of-introduction of various frameworks and library collection
 - Kohana 3: <http://en.wikipedia.org/wiki/Kohana_(framework)>
 
 - Lithium: <https://twitter.com/1marc/status/5179954058>
+
+- memcached: <https://pecl.php.net/package/memcached> released the stable version 1.0.0 was on July 7th, 2009
 
 ## 2010
 
@@ -102,6 +110,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Composer: <http://nelm.io/blog/2011/12/composer-part-1-what-why/>
 
+- Guzzle 1: <https://github.com/guzzle/guzzle/tree/v1.0.0>
+
 ## 2012
 
 - Laravel 3: <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
@@ -109,6 +119,14 @@ These are the years-of-introduction of various frameworks and library collection
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
 
 - Phalcon: <http://blog.phalconphp.com/search/release>
+
+- Guzzle 2: <https://github.com/guzzle/guzzle/tree/v2.0.0>
+
+- Guzzle 3: <https://github.com/guzzle/guzzle/tree/v3.0.0>
+
+- memcached: <https://pecl.php.net/package/memcached> released the stable version 2.0.0 was on March 2nd, 2012
+
+- Nette 2: <https://github.com/nette/nette/tree/v2.0.0>
 
 ## 2013
 
@@ -132,6 +150,18 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Yii 2: <http://www.yiiframework.com/news/81/yii-2-0-0-is-released/>
 
+- Phalcon 1: <https://github.com/phalcon/cphalcon/blob/master/CHANGELOG.md>
+
+- Silex 1: <http://silex.sensiolabs.org/doc/master/changelog.html>
+
+- Guzzle 4: <https://github.com/guzzle/guzzle/tree/4.0.0>
+
+- Guzzle 5: <https://github.com/guzzle/guzzle/tree/5.0.0>
+
+- Guzzle 6: <https://github.com/guzzle/guzzle/tree/6.0.0>
+
+- PHPixie 2: <https://phpixie.com/blog/new-phpixie-database-and-configuration-libraries.html>
+
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
@@ -149,3 +179,11 @@ These are the years-of-introduction of various frameworks and library collection
 - Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
 
 - Zend Framework 3: <https://framework.zend.com/blog/2016-06-28-zend-framework-3.html>
+
+- Phalcon 2: <https://github.com/phalcon/cphalcon/blob/master/CHANGELOG.md>
+
+- PHPixie 3: <https://github.com/PHPixie/Framework/releases>
+
+- Phalcon 3: <https://github.com/phalcon/cphalcon/blob/master/CHANGELOG.md>
+
+- Silex 2: <http://silex.sensiolabs.org/doc/master/changelog.html>
