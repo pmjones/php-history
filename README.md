@@ -144,6 +144,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Slim 3.0.0: <http://www.slimframework.com/2015/12/07/slim-3.html>
 
+- Symfony 3.0.0: <http://symfony.com/blog/symfony-3-0-0-released>
+
 ## 2016
 
 - Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
