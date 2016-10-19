@@ -26,6 +26,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Mojavi: <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
 
+- Seagull: <https://sourceforge.net/projects/seagull/files/Seagull%20old%20releases/seagull.0.3.3.p1-beta>
+
 ## 2004
 
 - WACT: <http://web.archive.org/web/20060222022339/http://sourceforge.net/mailarchive/forum.php?forum=wact-announce>
