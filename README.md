@@ -112,6 +112,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Phalcon: <http://blog.phalconphp.com/search/release>
 
+- Nette 2: <https://github.com/nette/nette/tree/v2.0.0>
+
 ## 2013
 
 - CodeIgniter announces "end-of-life": <https://ellislab.com/blog/entry/ellislab-seeking-new-owner-for-codeigniter>
@@ -134,6 +136,10 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Yii 2: <http://www.yiiframework.com/news/81/yii-2-0-0-is-released/>
 
+- Silex 1: <http://silex.sensiolabs.org/doc/master/changelog.html>
+
+- PHPixie 2: <https://phpixie.com/blog/new-phpixie-database-and-configuration-libraries.html>
+
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
@@ -153,3 +159,9 @@ These are the years-of-introduction of various frameworks and library collection
 - Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
 
 - Zend Framework 3: <https://framework.zend.com/blog/2016-06-28-zend-framework-3.html>
+
+- PHPixie 3: <https://github.com/PHPixie/Framework/releases>
+
+- Phalcon 3: <https://github.com/phalcon/cphalcon/blob/master/CHANGELOG.md>
+
+- Silex 2: <http://silex.sensiolabs.org/doc/master/changelog.html>
