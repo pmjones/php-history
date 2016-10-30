@@ -110,7 +110,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
 
-- Phalcon: <http://blog.phalconphp.com/search/release>
+- Phalcon 0.3.0: <https://web.archive.org/web/20120316035607/http://blog.phalconphp.com/>
 
 - Nette 2: <https://github.com/nette/nette/tree/v2.0.0>
 
@@ -128,7 +128,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
 
-- Phalcon 1.0.0: <http://blog.phalconphp.com/post/45916328008/phalcon-1-0-released>
+- Phalcon 1.0.0: <https://blog.phalconphp.com/post/phalcon-1-0-released>
 
 ## 2014
 
@@ -161,7 +161,5 @@ These are the years-of-introduction of various frameworks and library collection
 - Zend Framework 3: <https://framework.zend.com/blog/2016-06-28-zend-framework-3.html>
 
 - PHPixie 3: <https://github.com/PHPixie/Framework/releases>
-
-- Phalcon 3: <https://github.com/phalcon/cphalcon/blob/master/CHANGELOG.md>
 
 - Silex 2: <http://silex.sensiolabs.org/doc/master/changelog.html>
