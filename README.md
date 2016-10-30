@@ -10,6 +10,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Horde 1: <https://web.archive.org/web/20000303030737/http://web.horde.org/>
 
+- Pear 1: <https://web.archive.org/web/20001017231542/http://pear.php.net/>
+
 ## 2001
 
 - PAT (PHP Application Tools): <http://www.php-tools.net/site.php?file=news/archive2001.xml>
