@@ -132,8 +132,6 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Phalcon 1.0.0: <https://blog.phalconphp.com/post/phalcon-1-0-released>
 
-- Joomla! Framework 1.0: <https://github.com/joomla/joomla-framework/releases/tag/1.0>
-
 ## 2014
 
 - CodeIgniter changes owners: <https://ellislab.com/blog/entry/your-favorite-php-framework-codeigniter-has-a-new-home>
