@@ -52,6 +52,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - QCodo: <http://web.archive.org/web/20051204033658/http://www.qcodo.com/downloads/>
 
+- TinyMVC: <https://github.com/mohrt/tinymvc-php/blob/master/NEWS>
+
 ## 2006
 
 - CodeIgniter 1: <https://web.archive.org/web/20060303085522/http://www.codeigniter.com/>
@@ -154,6 +156,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Symfony 3.0.0: <http://symfony.com/blog/symfony-3-0-0-released>
 
+- Simple MVC Framework 2.1: <https://packagist.org/packages/simple-mvc-framework/v2#v2.1>
+
 ## 2016
 
 - Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
@@ -163,3 +167,5 @@ These are the years-of-introduction of various frameworks and library collection
 - PHPixie 3: <https://github.com/PHPixie/Framework/releases>
 
 - Silex 2: <http://silex.sensiolabs.org/doc/master/changelog.html>
+
+- NOVA Framework 3: <https://github.com/nova-framework/framework/tree/3.0-nova>
