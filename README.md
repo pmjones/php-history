@@ -12,6 +12,8 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Pear 1: <https://web.archive.org/web/20001017231542/http://pear.php.net/>
 
+- ADODB: <http://phplens.com/lens/adodb/docs-adodb.htm>
+
 ## 2001
 
 - PAT (PHP Application Tools): <http://www.php-tools.net/site.php?file=news/archive2001.xml>
