@@ -112,7 +112,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
 
-- Phalcon 0.3.0: <https://web.archive.org/web/20120316035607/http://blog.phalconphp.com/>
+- Phalcon 0.3.0: <https://blog.phalcon.io/post/phalcon-0-3-0-released>
 
 - Nette 2: <https://github.com/nette/nette/tree/v2.0.0>
 
@@ -130,7 +130,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 - Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
 
-- Phalcon 1.0.0: <https://blog.phalconphp.com/post/phalcon-1-0-released>
+- Phalcon 1.0.0: <https://blog.phalcon.io/post/phalcon-1-0-released>
 
 ## 2014
 
@@ -150,7 +150,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 - CodeIgniter 3: <http://forum.codeigniter.com/thread-1657.html>
 
-- Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400>
+- Phalcon 2.0.0: <https://blog.phalcon.io/post/phalcon-2-released>
 
 - Slim 3.0.0: <http://www.slimframework.com/2015/12/07/slim-3.html>
 
@@ -160,7 +160,7 @@ These are the years-of-introduction of various frameworks and library collection
 
 ## 2016
 
-- Phalcon 3.0.0: <https://blog.phalconphp.com/post/phalcon-3-0-0-released>
+- Phalcon 3.0.0: <https://blog.phalcon.io/post/phalcon-3-0-0-released>
 
 - Zend Framework 3: <https://framework.zend.com/blog/2016-06-28-zend-framework-3.html>
 
