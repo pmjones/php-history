@@ -169,3 +169,7 @@ These are the years-of-introduction of various frameworks and library collection
 - Silex 2: <http://silex.sensiolabs.org/doc/master/changelog.html>
 
 - NOVA Framework 3: <https://github.com/nova-framework/framework/tree/3.0-nova>
+
+## 2018
+
+- Phalcon 4.0.0: <https://blog.phalcon.io/post/phalcon-4-0-0-released>
