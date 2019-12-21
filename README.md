@@ -1,6 +1,6 @@
 # A History Of PHP Frameworks/Library Collections
 
-These are the years-of-introduction of various frameworks and library collection projects.
+These are the years-of-introduction of various notable frameworks and library collection projects.
 
 ## pre-2000
 
