@@ -1,15 +1,10 @@
 # A History Of PHP Frameworks/Library Collections
 
-These are the years-of-introduction of various frameworks and library collection projects.
-
-Need:
-
-- Horde 3
-
+These are the years-of-introduction of various notable frameworks and library collection projects.
 
 ## pre-2000
 
-- Phplib <http://www.sanisoft.com/phplib/manual/>
+- Phplib: <http://www.sanisoft.com/phplib/manual/>
 
 ## 2000
 
@@ -24,17 +19,22 @@ Need:
 ## 2002
 
 - Horde 2: <http://marc.info/?l=horde-dev&m=101003795801512&w=4>
-- Phrame : <https://web.archive.org/web/20021119091123/http://phrame.itsd.ttu.edu/>
+
+- Phrame: <https://web.archive.org/web/20021119091123/http://phrame.itsd.ttu.edu/>
 
 ## 2003
 
-- Mojavi : <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
+- Mojavi: <http://web.archive.org/web/20040520071127/http://www.mojavi.org/> , released October 22nd, 2003
+
+- Seagull: <https://sourceforge.net/projects/seagull/files/Seagull%20old%20releases/seagull.0.3.3.p1-beta>
 
 ## 2004
 
 - WACT: <http://web.archive.org/web/20060222022339/http://sourceforge.net/mailarchive/forum.php?forum=wact-announce>
 
 - Prado version 1: <https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7> Sep 13, 2004
+
+- Horde 3: <https://web.archive.org/web/20041229092356/http://www.horde.org/> Dec 23, 2004
 
 ## 2005
 
@@ -50,6 +50,9 @@ Need:
 
 - ezComponents (later Zeta Components): <http://ezcomponents.org/download/dl_components>
 
+- QCodo: <http://web.archive.org/web/20051204033658/http://www.qcodo.com/downloads/>
+
+- TinyMVC: <https://github.com/mohrt/tinymvc-php/blob/master/NEWS>
 
 ## 2006
 
@@ -85,7 +88,6 @@ Need:
 
 - Slim 1.0: <https://github.com/codeguy/Slim/wiki/Road-Map#version-10-released-november-2-2010>
 
-
 ## 2011
 
 - CodeIgniter 2: <https://web.archive.org/web/20110805025800/http://codeigniter.com/news/codeigniter_2.0.0_released/>
@@ -106,11 +108,13 @@ Need:
 
 ## 2012
 
-- Laravel 3 : <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
+- Laravel 3: <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
 
 - Slim 2.0: <https://github.com/codeguy/Slim/releases/tag/2.0.0>
 
-- Phalcon: <http://blog.phalconphp.com/search/release>
+- Phalcon 0.3.0: <https://blog.phalcon.io/post/phalcon-0-3-0-released>
+
+- Nette 2: <https://github.com/nette/nette/tree/v2.0.0>
 
 ## 2013
 
@@ -126,7 +130,9 @@ Need:
 
 - Slim 2.3.0: <https://github.com/codeguy/Slim/releases/tag/2.3.0>
 
-- Phalcon 1.0.0: <http://blog.phalconphp.com/post/45916328008/phalcon-1-0-released>
+- Phalcon 1.0.0: <https://blog.phalcon.io/post/phalcon-1-0-released>
+
+- Swoole 1.6.7: <https://pecl.php.net/package/swoole/1.6.7>
 
 ## 2014
 
@@ -134,12 +140,62 @@ Need:
 
 - Yii 2: <http://www.yiiframework.com/news/81/yii-2-0-0-is-released/>
 
+- Silex 1: <http://silex.sensiolabs.org/doc/master/changelog.html>
+
+- PHPixie 2: <https://phpixie.com/blog/new-phpixie-database-and-configuration-libraries.html>
+
 ## 2015
 
 - Laravel 5: <https://laravel-news.com/2015/02/laravel-5-released/>
 
+- CakePHP 3: <http://bakery.cakephp.org/2015/03/22/CakePHP-3-0-0-is-Here.html>
+
 - CodeIgniter 3: <http://forum.codeigniter.com/thread-1657.html>
 
-- Phalcon 2.0.0: <http://blog.phalconphp.com/post/116664774400>
-
 - Aura 3: <http://auraphp.com/blog/2015/12/01/aura-3-stable-releases>
+
+- Phalcon 2.0.0: <https://blog.phalcon.io/post/phalcon-2-released>
+
+- Slim 3.0.0: <http://www.slimframework.com/2015/12/07/slim-3.html>
+
+- Symfony 3.0.0: <http://symfony.com/blog/symfony-3-0-0-released>
+
+- Simple MVC Framework 2.1: <https://packagist.org/packages/simple-mvc-framework/v2#v2.1>
+
+## 2016
+
+- Phalcon 3.0.0: <https://blog.phalcon.io/post/phalcon-3-0-0-released>
+
+- Zend Framework 3: <https://framework.zend.com/blog/2016-06-28-zend-framework-3.html>
+
+- PHPixie 3: <https://github.com/PHPixie/Framework/releases>
+
+- Silex 2: <http://silex.sensiolabs.org/doc/master/changelog.html>
+
+- NOVA Framework 3: <https://github.com/nova-framework/framework/tree/3.0-nova>
+
+- Swoole 2.0.8: <https://pecl.php.net/package/swoole/2.0.8>
+
+## 2017
+
+- Symfony 4: <https://symfony.com/releases/4.0>
+
+## 2018
+
+- Swoole 4: <https://pecl.php.net/package/swoole/4.0.0>
+
+## 2019
+
+- ReactPHP: <https://github.com/reactphp/reactphp/releases/tag/v1.0.0>
+
+- Zend Framework becomes Laminas: <https://framework.zend.com/blog/2019-04-17-announcing-laminas.html>
+
+- Symfony 5: <https://symfony.com/releases/5.0>
+
+- Slim 4: <https://www.slimframework.com/2019/08/01/slim-4.0.0-release.html>
+
+- Laravel 6: <https://github.com/laravel/laravel/releases/tag/v6.0.0>
+
+- Phalcon 4: <https://blog.phalcon.io/post/phalcon-4-0-0-released>
+
+- CakePHP 4: <https://bakery.cakephp.org/2019/12/15/cakephp_400_released.html>
