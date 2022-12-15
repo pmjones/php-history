@@ -199,3 +199,7 @@ These are the years-of-introduction of various notable frameworks and library co
 - Phalcon 4: <https://blog.phalcon.io/post/phalcon-4-0-0-released>
 
 - CakePHP 4: <https://bakery.cakephp.org/2019/12/15/cakephp_400_released.html>
+
+## 2022
+
+- Phalcon 5: <https://blog.phalcon.io/post/phalcon-v5-0-0-and-v5-0-1-released>
